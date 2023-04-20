@@ -17,14 +17,6 @@ window.onscroll = () => {
     navbar.classList.remove('active');
 };
 
-function mem() {
-  location = "member.html"
-}
-
-function portal() {
-  location = "portal.html"
-}
-
 function clz() {
   location = "onetooneakr.github.io/com/"
 }
